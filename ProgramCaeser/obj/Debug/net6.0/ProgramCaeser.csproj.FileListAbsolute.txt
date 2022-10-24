@@ -1,0 +1,16 @@
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\bin\Debug\net6.0\ProgramCaeser.exe
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\bin\Debug\net6.0\ProgramCaeser.deps.json
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\bin\Debug\net6.0\ProgramCaeser.runtimeconfig.json
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\bin\Debug\net6.0\ProgramCaeser.dll
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\bin\Debug\net6.0\ref\ProgramCaeser.dll
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\bin\Debug\net6.0\ProgramCaeser.pdb
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.dll
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ref\ProgramCaeser.dll
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.pdb
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\ProgramCaeser\ProgramCaeser\obj\Debug\net6.0\ProgramCaeser.csproj.CopyComplete
